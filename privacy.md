@@ -5,7 +5,7 @@ permalink: /privacy/
 ---
 
 ## Privacy Policy
-- Thank you for using the Sarawak Government mobile app.
+Thank you for using the Sarawak Government mobile app.
 
 ## Introduction
 
